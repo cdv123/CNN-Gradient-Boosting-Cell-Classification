@@ -1,4 +1,4 @@
-# CNN-Gradient Boosting for Cell Imgae Classification
+# CNN-Gradient Boosting for Cell Image Classification
 
  Uses convolutional neural networks to extract the features of images of different blood cells \
  Histogram Gradient Boosting is then used to classify these images. \
